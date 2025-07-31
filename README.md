@@ -4,7 +4,7 @@ This project focuses on audio transcription using OpenAI’s Whisper and other t
 
 ## Project Structure
 
-- **`transcription.ipynb`**: Main Jupyter notebook for preprocessing and transcription.
+- **`transcript.ipynb`**: Main Jupyter notebook for preprocessing and transcription.
 - **`Audio_segments_with_silence/`**: Folder storing audio segments after silence detection.
 
 ## Objectives
