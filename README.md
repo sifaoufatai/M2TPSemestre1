@@ -1,4 +1,4 @@
-# M2TPSemestre1 – Audio Transcription with Multiple Models
+# Whispertranscriptionptoject – Audio Transcription with Multiple Models
 
 This project focuses on audio transcription using OpenAI’s Whisper and other transcription models. It includes silence-based segmentation, noise reduction, and speaker diarization. Transcriptions are compared across models **per speaker** to evaluate performance.
 
